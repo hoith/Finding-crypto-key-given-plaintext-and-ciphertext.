@@ -1,6 +1,6 @@
-To run the code for 3.2 do:
-python program_assignment1.py
+To run the code to find key:
+python find.py
 
-To run the code for 3.3 do:
-python project1-3.3.py
+To run the code that compares weak and strong collison:
+python breakcollison.py
 
